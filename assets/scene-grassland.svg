@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-label="方块草原冒险场景">
+<defs><linearGradient id="sky" y2="1"><stop stop-color="#8bd8ff"/><stop offset="1" stop-color="#d6f5ff"/></linearGradient></defs>
+<path fill="url(#sky)" d="M0 0h960v300H0z"/><circle cx="780" cy="66" r="36" fill="#ffe678"/><path fill="#fff" opacity=".8" d="M120 64h92v18h-34v18h-75V82h17zm520 45h115v18h-34v18h-95v-18h14z"/>
+<path fill="#7cc8a0" d="M0 178h160v-26h104v32h126v-22h120v25h148v-34h120v26h182v121H0z"/><path fill="#4f9d69" d="M0 220h105v-20h105v23h160v-30h130v27h120v-19h142v23h198v76H0z"/>
+<path fill="#a9d47b" d="M0 250h200v-20h115v23h140v-17h160v22h144v-20h201v62H0z"/><path fill="#81b95f" d="M0 278h960v22H0z"/>
+<g><path fill="#7a4f32" d="M90 197h16v67H90z"/><path fill="#4ca75e" d="M65 153h66v48H65z"/><path fill="#65bd65" d="M78 132h47v28H78z"/><path fill="#347b4a" d="M54 176h29v24H54z"/>
+<path fill="#7a4f32" d="M820 190h18v74h-18z"/><path fill="#4ca75e" d="M793 144h72v52h-72z"/><path fill="#65bd65" d="M807 119h49v32h-49z"/><path fill="#347b4a" d="M852 165h28v30h-28z"/></g>
+<g fill="#e8f5a2"><path d="M260 244h14v14h-14zM286 260h14v14h-14zM691 237h14v14h-14zM720 257h14v14h-14z"/></g>
+</svg>
