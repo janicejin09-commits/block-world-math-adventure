@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-label="方块矿洞探险场景">
+<defs><linearGradient id="cave" y2="1"><stop stop-color="#525d78"/><stop offset="1" stop-color="#222c45"/></linearGradient></defs><path fill="url(#cave)" d="M0 0h960v300H0z"/><path fill="#66728d" d="M0 0h118v45H70v42H0zm260 0h104v40h-62v48h-61V45h19zm566 0h134v60h-80v44h-54z"/><path fill="#3c4967" d="M0 200h150v-40h95v55h120v-37h111v45h146v-54h112v42h104v-48h122v137H0z"/><path fill="#283451" d="M0 245h960v55H0z"/>
+<g><path fill="#5c7db0" d="M177 184h22v22h-22zM199 206h22v22h-22zM221 228h22v22h-22z"/><path fill="#79a1d9" d="M184 191h8v8h-8zM206 213h8v8h-8z"/><path fill="#d98755" d="M707 199h22v22h-22zM729 221h22v22h-22zM751 243h22v22h-22z"/><path fill="#ffc477" d="M714 206h8v8h-8z"/></g>
+<path fill="#5e6c86" d="M0 281h960v19H0z"/><g fill="#fff3a4"><path d="M315 127h8v8h-8zM605 92h8v8h-8zM480 164h8v8h-8z"/></g></svg>
