@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-label="方块末地最终挑战场景">
+<defs><linearGradient id="end" y2="1"><stop stop-color="#332b55"/><stop offset="1" stop-color="#8552a2"/></linearGradient></defs><path fill="url(#end)" d="M0 0h960v300H0z"/><circle cx="760" cy="76" r="45" fill="#f0c5ff" opacity=".88"/><circle cx="760" cy="76" r="58" fill="none" stroke="#f7d7ff" stroke-opacity=".35" stroke-width="8"/>
+<g fill="#d8baff"><path d="M82 54h8v8h-8zM183 98h8v8h-8zM360 47h7v7h-7zM550 116h8v8h-8zM877 42h7v7h-7zM652 55h6v6h-6z"/></g>
+<path fill="#423259" d="M0 207h145v-42h115v50h130v-37h114v43h127v-51h132v49h96v-58h101v97H0z"/><path fill="#302642" d="M0 251h960v49H0z"/><path fill="#7952a1" d="M0 277h960v23H0z"/>
+<g fill="#7fe7d6"><path d="M213 231h20v20h-20zM236 251h20v20h-20zM660 223h20v20h-20zM683 243h20v20h-20z"/></g><g fill="#b78bdd"><path d="M110 188h24v24h-24zM134 212h24v24h-24zM835 181h24v24h-24zM811 205h24v24h-24z"/></g></svg>
